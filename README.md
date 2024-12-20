@@ -1,16 +1,20 @@
-# add_to_cart
+# Add to Cart Feature with GetX
 
-A new Flutter project.
+This Flutter project demonstrates how to implement a simple "Add to Cart" feature using the GetX state management package. The app allows users to add and remove items from the cart with a dynamic UI that updates in real-time.
 
-## Getting Started
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Structure](#code-structure)
+- [Example](#example)
+- [License](#license)
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+Follow the steps below to run the project locally:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/flutter-getx-cart.git
+ ### images 
